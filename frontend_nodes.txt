@@ -1,0 +1,16 @@
+BootStrap,js and react nodes
+Day: Monday Date: 17-3-2025
+
+CREATE TO CREATE NEW GIT REPO;
+1- Login to github
+2- Click on + on top right and select new repository
+3- Enter the new repo name
+4- Give the description
+5- Make the repo public(default scope)
+6- Select the checkbox and add readme file
+7- Select create repo botton
+
+Command to download any public repository
+$ git clone https://github.com/deekshas678s/pfile_fe_mar25
+The above command copies(clones)the git repo from the server(cloud) to the local machine.
+Thus, we get a folder of the repo 
